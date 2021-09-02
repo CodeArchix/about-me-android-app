@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Mohamed Ibrahima TRAORE</string>
+    <string name="yellow_start">Yellow Start</string>
+    <string name="bio_text">
+        Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit.
+        Proin elementum enim et imperdiet pharetra. Duis iaculis porttitor tellus at porta. Suspendisse tempus felis quis nunc accumsan, a volutpat nisi interdum. Aliquam laoreet placerat risus, ut faucibus metus auctor nec. Integer vitae rutrum mi, sit amet vehicula nisl. Sed sit amet dui congue, faucibus purus viverra, gravida sapien. Ut non molestie purus, ut vehicula mauris. Vestibulum nec ex id lectus porttitor fermentum. Nam tortor massa, sollicitudin vel scelerisque non, euismod a libero. Aliquam nec venenatis nisl. Suspendisse finibus faucibus diam eu rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse ut nibh imperdiet, sollicitudin risus a, laoreet mi. Donec tempor erat id sem rhoncus, a consequat lectus vestibulum.
+    </string>
+    <string name="what_is_your_nickname" />
+    <string name="done">Done</string>
+</resources>
